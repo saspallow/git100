@@ -1,3 +1,7 @@
 git status เช็คสถานะของ File ใน repository
+<<<<<<< HEAD
 
 git status ไว้ใช้เช็คสถาณะที่การเปลี่ยนแปลงภายใน repository จะขึ้นตัวแดงๆ ถ้ามีการเปลี่ยนแปลงของไพล์
+
+git status  ไว้ดูสถานะ
+
