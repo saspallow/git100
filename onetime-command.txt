@@ -1,0 +1,7 @@
+---config first install git
+git config --global username.name "name"
+git config --global user.email "e-mail"
+
+---(1 time/project)
+git init 
+git remote add origin
