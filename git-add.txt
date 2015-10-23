@@ -6,3 +6,14 @@ git add <filename>
 
 git add <ชื้อไฟล์>
 git add . recursive add //add all file in directory
+
+
+git add ใช้สำหรับแอดไฟล์เข้าไปใน repository
+
+git add <filename>
+// เพื่อบอกให้ตัว git รู้จัก ไฟล์นั้นๆ
+
+git add <filename>
+// เพื่อบอกให้ตัว git รู้จัก ไฟล์นั้นๆ
+git add ตามด้วยชื่อไฟล์
+
