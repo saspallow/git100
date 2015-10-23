@@ -1,1 +1,7 @@
+<<<<<<< HEAD
+git commit -m "commit message"  
+=======
+git commit -m "Commit Message"
+>>>>>>> 1efaae47798b30b12c52d7682c82c59d4d1f2e3e
+
 git commit -m "commit message"  
