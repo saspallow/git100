@@ -1,1 +1,3 @@
 git add ชื่อไฟล์ ( add File ลง repository )
+
+git add ใช้สำหรับแอดไฟล์เข้าไปใน repository
