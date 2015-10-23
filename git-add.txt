@@ -5,3 +5,5 @@ git add <filename>
 git add <filename>
 // เพื่อบอกให้ตัว git รู้จัก ไฟล์นั้นๆ
 git add ตามด้วยชื่อไฟล์
+git add ตามด้วยชื่อไฟล์
+
