@@ -52,7 +52,7 @@ git commit -m
 
 =======
 git push origin master
-//เนื้อหา
+//นำไฟล์จาก repository ขึ้นไปยัง github / ส่งไพล์ขึ้น github จากเครื่อง ระวัง conflict
 ======
 
 =======
