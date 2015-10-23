@@ -1,2 +1,5 @@
 git push -u origin master (first time)
 git push นำไฟล์จาก repository ขึ้นไปยัง github
+
+git push  ส่งไพล์ขึ้น github จากเครื่อง ระวัง conflict
+
