@@ -1,0 +1,66 @@
+###############
+onetime-command
+###############
+
+=======
+git init คือ
+git init สร้าง repository ภายในเครื่อง
+======
+
+=======
+git config คือ
+git config --global username.name "name"
+git config --global user.email "e-mail"
+======
+
+=======
+git remote
+//เนื้อหา
+======
+
+=======
+git clone
+//เนื้อหา
+======
+
+###############
+คำสั่งสามัญประจำเครื่อง
+###############
+
+=======
+git status
+//เนื้อหา
+======
+
+=======
+git add
+//เนื้อหา
+======
+
+=======
+git commit -m
+//เนื้อหา
+======
+
+=======
+git push origin master
+//เนื้อหา
+======
+
+=======
+git pull origin master
+//เนื้อหา
+======
+
+=======
+git log
+//เนื้อหา
+======
+
+
+
+##############
+รายชื่อ
+##############
+Sarawut Silprawat(Benz)
+Surasak Photiphiphit(Jack)
