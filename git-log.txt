@@ -37,4 +37,13 @@ Date:   Fri Oct 23 13:01:10 2015 +0700
 
 Initial
 
+<<<<<<< HEAD
+log file อธิบายประวัติทั การเข้าถึงทั่วไป
+=======
 git log แสดงรายละเอียดของไฟล์ใน repository 
+<<<<<<< HEAD
+>>>>>>> eb770207f61beae79613133f52cbcdfc0129dc7b
+=======
+
+git log  เอาไว้ดูเฉยๆ ดูเลข commit
+>>>>>>> 797a1476c6ef629aed2afaae31daccc06dc2ff14
