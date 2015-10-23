@@ -8,8 +8,9 @@ git init สร้าง repository ภายในเครื่อง
 ======
 
 =======
-git config
-//เนื้อหา
+git config คือ
+git config --global username.name "name"
+git config --global user.email "e-mail"
 ======
 
 =======
@@ -55,3 +56,11 @@ git pull origin master
 git log
 //เนื้อหา
 ======
+
+
+
+##############
+รายชื่อ
+##############
+Sarawut Silprawat(Benz)
+Surasak Photiphiphit(Jack)
