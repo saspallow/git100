@@ -33,7 +33,7 @@ git clone ตามด้วย ssh clone URL
 
 =======
 git status
-//เนื้อหา
+git status ไว้ใช้เช็คสถาณะที่การเปลี่ยนแปลงภายใน repository จะขึ้นตัวแดงๆ ถ้ามีการเปลี่ยนแปลงของไพล์
 ======
 
 =======
@@ -80,4 +80,5 @@ Hathairat Suvarnamisara (Jiiewz)
 Jariya Chotinawanon(Pui)
 Pathamawadee Inpromma 
 Pakpoom Deepoon 
+Piyawan Chanro (Sine)
 
