@@ -57,7 +57,25 @@ git pull >> ดึงข้อมูลล่าสุดจาก github ลง
 
 =======
 git log
-//เนื้อหา
+
+
+แสดงรายละเอียดของไฟล์ใน repository อธิบายประวัติทั การเข้าถึงทั่วไป
+แสดงข้อมูล  เลข commit, commit message , ผู้เขียน , email ผู้เขียน และ วันเวลาที่ถูกปรับปรุง
+
+For Example :
+$ git log
+commit 4d2a0815e71ad99b0bae2b79d8803761d2bbeed0
+Author: saspallowGB <hrll0102@hotmail.com> 
+Date:   Fri Oct 23 13:16:53 2015 +0700
+
+Create onetime-command.txt
+
+commit 23a60e97fa679f4838f399e8cb81a4ba0a899ced
+Author: Krseisenh <its_me_78370@live.com>
+Date:   Fri Oct 23 13:14:42 2015 +0700
+
+create git-log.txt
+
 ======
 
 
@@ -69,4 +87,4 @@ Sarawut Silprawat(Benz)
 Surasak Photiphiphit(Jack)
 Krisada Vivek(Mo)
 Sunai Sukanake(Nook)
-Jariya Chotinawanon(Pui)
+Jariya Chotinawano(Pui)
