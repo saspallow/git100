@@ -1,1 +1,2 @@
 git add ชื่อไฟล์ ( add File ลง repository )
+// เพื่อบอกให้ตัว git รู้จัก ไฟล์นั้นๆ
