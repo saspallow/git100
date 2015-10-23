@@ -3,3 +3,33 @@ git log example command
 commit 320dee339742da35b5ebde1a10ed778c37d3103f //HasdID เอาไว้ย้อน version
 Author: Prathan D <zyracuze@gmail.com> //creator
 Date:   Fri Oct 23 13:01:10 2015 +0700 // date
+command : git log
+description : list of commit message, author, author's email and date-time
+
+For Example : 
+gomor@DESKTOP-9QFAEDK MINGW64 ~/Desktop/workspace/git100 (master)
+$ git log
+commit 4d2a0815e71ad99b0bae2b79d8803761d2bbeed0
+Author: saspallowGB <hrll0102@hotmail.com>
+Date:   Fri Oct 23 13:16:53 2015 +0700
+
+    Create onetime-command.txt
+
+    commit 23a60e97fa679f4838f399e8cb81a4ba0a899ced
+    Author: Krseisenh <its_me_78370@live.com>
+    Date:   Fri Oct 23 13:14:42 2015 +0700
+
+        create git-log.txt
+
+    commit cc7722788c91bff3da6d22bdefa18eacb255cd37
+    Author: Hello <lnwgee2@gmail.com>
+    Date:   Fri Oct 23 13:08:51 2015 +0700
+
+	add Line1
+
+    commit 320dee339742da35b5ebde1a10ed778c37d3103f
+    Author: Prathan D <zyracuze@gmail.com>
+    Date:   Fri Oct 23 13:01:10 2015 +0700
+
+        Initial
+
