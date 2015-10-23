@@ -1,10 +1,10 @@
----config first install git
+---Config first install git
 git config --global username.name "name"
 git config --global user.email "e-mail"
+
 ---Check Username, Email
 git config -l
 
-
 ---(1 time/project)
-git init 
-git remote add origin
+git init เพื่อสร้าง repository
+git remote add origin ให้เลือกเป็นในเว็บ  git เป็น SSH ไม่ใช่ http

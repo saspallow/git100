@@ -3,3 +3,4 @@ git log example command
 commit 320dee339742da35b5ebde1a10ed778c37d3103f //HasdID เอาไว้ย้อน version
 Author: Prathan D <zyracuze@gmail.com> //creator
 Date:   Fri Oct 23 13:01:10 2015 +0700 // date
+git log (ดูที่ commit ไว้)
