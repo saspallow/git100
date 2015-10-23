@@ -1,2 +1,3 @@
 git status เช็คสถานะของ File ใน repository
 git status  ไว้ดูสถานะ
+git status ตรวจสอบสถานะ
