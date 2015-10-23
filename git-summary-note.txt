@@ -93,9 +93,7 @@ Sarawut Silprawat(Benz)
 Surasak Photiphiphit(Jack)
 Krisada Vivek(Mo)
 Sunai Sukanake(Nook)
-<<<<<<< HEAD
 Jariya Chotinawano(Pui)
-=======
 Thatchapit Chumnankit (Gee)
 Hathairat Suvarnamisara (Jiiewz)
 Jariya Chotinawanon(Pui)
