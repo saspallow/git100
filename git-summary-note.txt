@@ -8,13 +8,17 @@ git init สร้าง repository ภายในเครื่อง
 ======
 
 =======
-git config
-//เนื้อหา
+git config คือ
+git config --global user.name "name"
+git config --global user.email "e-mail"
 ======
 
 =======
 git remote
-//เนื้อหา
+ssh-keygen //สร้างแล้วแ copy ไปวางใน github
+git remote add origin HTTPs //remote HTTPS
+git remote -v // remote look up
+git remote set-url origin SSH // เปลี่ยน remote 
 ======
 
 =======
@@ -55,3 +59,12 @@ git pull origin master
 git log
 //เนื้อหา
 ======
+
+
+
+##############
+รายชื่อ
+##############
+Sarawut Silprawat(Benz)
+Surasak Photiphiphit(Jack)
+Krisada Vivek(Mo)
