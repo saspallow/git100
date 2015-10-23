@@ -1,0 +1,1 @@
+git status เช็คสถานะของ File ใน repository
