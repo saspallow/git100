@@ -23,7 +23,8 @@ git remote set-url origin SSH // เปลี่ยน remote
 
 =======
 git clone
-//เนื้อหา
+git clone ตามด้วย ssh clone URL
+(Ex. git clone git@github.com:zyracuze/git100.git)
 ======
 
 ###############
