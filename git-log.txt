@@ -36,3 +36,5 @@ Author: Prathan D <zyracuze@gmail.com>
 Date:   Fri Oct 23 13:01:10 2015 +0700
 
 Initial
+
+git log แสดงรายละเอียดของไฟล์ใน repository 
