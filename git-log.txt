@@ -33,3 +33,4 @@ Date:   Fri Oct 23 13:16:53 2015 +0700
 
         Initial
 
+git log (ดูที่ commit ไว้)
