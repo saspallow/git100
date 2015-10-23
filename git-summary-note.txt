@@ -40,11 +40,7 @@ git status ไว้ใช้เช็คสถาณะที่การเป
 git add
 git add <filename> // เพื่อบอกให้ตัว git รู้จัก ไฟล์นั้นๆ
 ======
-git add ชื่อไฟล์ ( add File ลง repository )
-git add <ชื้อไฟล์>
-git add . recursive add //add all file in directory
-git add ใช้สำหรับแอดไฟล์เข้าไปใน repository
-git add <filename> // เพื่อบอกให้ตัว git รู้จัก ไฟล์นั้นๆ
+
 
 =======
 git commit -m
