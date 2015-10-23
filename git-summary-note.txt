@@ -3,8 +3,8 @@ onetime-command
 ###############
 
 =======
-git init
-//เนื้อหา
+git init คือ
+git init สร้าง repository ภายในเครื่อง
 ======
 
 =======
