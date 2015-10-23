@@ -1,6 +1,4 @@
 git add ชื่อไฟล์ ( add File ลง repository )
-<<<<<<< HEAD
 git add <filename>
-=======
 // เพื่อบอกให้ตัว git รู้จัก ไฟล์นั้นๆ
->>>>>>> 2a9f33dd378fea5027df24cda45bce84dde46200
+git add ตามด้วยชื่อไฟล์
