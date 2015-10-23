@@ -1,2 +1,4 @@
 git commit -m "Commit Message"
 git commit -m "รายละเอียดของไฟล์" ชี้แจงการเปลี่ยนเปลงของการทำงานบน github
+git commit -m "commit message"
+
