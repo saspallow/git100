@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 git commit -m "Commit Message"
 git commit -m "รายละเอียดของไฟล์" ชี้แจงการเปลี่ยนเปลงของการทำงานบน github
+=======
+
+git commit -m "commit message"  
+
+git commit -m "commit message"  
+>>>>>>> ff8293450838b255c6657fffaf248425af559367
