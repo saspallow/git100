@@ -2,13 +2,23 @@
 git config --global username.name "name"
 git config --global user.email "e-mail"
 
+git config --global user.name "name" ตั้งชื่อ repository 
+git config --global user.email "e-mail" กำหนด e-mail ใน repository
+
 ---Check Username, Email
 git config -l
+
+git config -l เช็ค username และ email ใน repository
 
 ---(1 time/project)
 git init เพื่อสร้าง repository
 git remote add origin ให้เลือกเป็นในเว็บ  git เป็น SSH ไม่ใช่ http
 
+<<<<<<< HEAD
 git init
 git config --global user.name "name" //ส้ราง username
 git config --global user.email "email" // เลือก email
+=======
+git init สร้าง repository ภายในเครื่อง
+git remote add origin ติดต่อกับ github โดยผ่าน ssh
+
