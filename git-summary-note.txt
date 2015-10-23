@@ -57,7 +57,7 @@ git push origin master
 
 =======
 git pull origin master
-//เนื้อหา
+git pull >> ดึงข้อมูลล่าสุดจาก github ลงมายังเครื่อง เพื่อ update ไพล์ใน เครื่องให้เป็นอันล่าสุด
 ======
 
 =======
@@ -76,3 +76,5 @@ Krisada Vivek(Mo)
 Sunai Sukanake(Nook)
 Thatchapit Chumnankit (Gee)
 Hathairat Suvarnamisara (Jiiewz)
+Jariya Chotinawanon(Pui)
+
