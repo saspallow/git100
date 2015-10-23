@@ -38,7 +38,7 @@ git status ไว้ใช้เช็คสถาณะที่การเป
 
 =======
 git add
-//เนื้อหา
+git add <filename> // เพื่อบอกให้ตัว git รู้จัก ไฟล์นั้นๆ
 ======
 git add ชื่อไฟล์ ( add File ลง repository )
 git add <ชื้อไฟล์>

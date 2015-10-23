@@ -1,34 +1,17 @@
 git add ชื่อไฟล์ ( add File ลง repository )
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-
 git add <filename>
-
 // เพื่อบอกให้ตัว git รู้จัก ไฟล์นั้นๆ
-
 git add <ชื้อไฟล์>
 git add . recursive add //add all file in directory
-
-=======
->>>>>>> 8667d6c6a51670ae78f3cd932bfc888fc3a9f1df
-
->>>>>>> eb770207f61beae79613133f52cbcdfc0129dc7b
 git add ใช้สำหรับแอดไฟล์เข้าไปใน repository
 git add <filename>
 // เพื่อบอกให้ตัว git รู้จัก ไฟล์นั้นๆ
-<<<<<<< HEAD
-
 git add <filename>
 // เพื่อบอกให้ตัว git รู้จัก ไฟล์นั้นๆ
 git add ตามด้วยชื่อไฟล์
-
-
 git add <filename>
 // เพื่อบอกให้ตัว git รู้จัก ไฟล์นั้นๆ
 git add ตามด้วยชื่อไฟล์
-<<<<<<< HEAD
 git add ตามด้วยชื่อไฟล์
-=======
->>>>>>> eb770207f61beae79613133f52cbcdfc0129dc7b
+
 
