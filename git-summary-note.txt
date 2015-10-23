@@ -39,6 +39,11 @@ git status
 git add
 //เนื้อหา
 ======
+git add ชื่อไฟล์ ( add File ลง repository )
+git add <ชื้อไฟล์>
+git add . recursive add //add all file in directory
+git add ใช้สำหรับแอดไฟล์เข้าไปใน repository
+git add <filename> // เพื่อบอกให้ตัว git รู้จัก ไฟล์นั้นๆ
 
 =======
 git commit -m
@@ -69,4 +74,9 @@ Sarawut Silprawat(Benz)
 Surasak Photiphiphit(Jack)
 Krisada Vivek(Mo)
 Sunai Sukanake(Nook)
+Thatchapit Chumnankit (Gee)
+Hathairat Suvarnamisara (Jiiewz)
 Jariya Chotinawanon(Pui)
+Pathamawadee Inpromma 
+Pakpoom Deepoon 
+
