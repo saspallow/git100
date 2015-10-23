@@ -1,0 +1,1 @@
+git push นำไฟล์จาก repository ขึ้นไปยัง github
