@@ -23,7 +23,8 @@ git remote set-url origin SSH // เปลี่ยน remote
 
 =======
 git clone
-//เนื้อหา
+git clone ตามด้วย ssh clone URL
+(Ex. git clone git@github.com:zyracuze/git100.git)
 ======
 
 ###############
@@ -32,12 +33,12 @@ git clone
 
 =======
 git status
-//เนื้อหา
+git status ไว้ใช้เช็คสถาณะที่การเปลี่ยนแปลงภายใน repository จะขึ้นตัวแดงๆ ถ้ามีการเปลี่ยนแปลงของไพล์
 ======
 
 =======
 git add
-//เนื้อหา
+git add <filename> // เพื่อบอกให้ตัว git รู้จัก ไฟล์นั้นๆ
 ======
 git add ชื่อไฟล์ ( add File ลง repository )
 git add <ชื้อไฟล์>
@@ -79,4 +80,6 @@ Hathairat Suvarnamisara (Jiiewz)
 Jariya Chotinawanon(Pui)
 Pathamawadee Inpromma (Prang) 
 Pakpoom Deepoon (Poom)
+Piyawan Chanro (Sine)
+
 
