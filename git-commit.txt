@@ -1,4 +1,6 @@
 
 git commit -m "commit message"  
 
-git commit -m "commit message"  
+git commit -m "commit message" 
+
+must have a commit message 
