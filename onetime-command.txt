@@ -8,3 +8,6 @@ git config -l
 ---(1 time/project)
 git init เพื่อสร้าง repository
 git remote add origin ให้เลือกเป็นในเว็บ  git เป็น SSH ไม่ใช่ http
+
+
+git clone git@github.com:PuIPuI/git101.git      เป็นการ   clone โปรเจ็คเครื่องหลักลงมาเครื่องเรา (สิ่งที่ทำ init remote pull)
