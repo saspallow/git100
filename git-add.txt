@@ -1,5 +1,5 @@
 git add ชื่อไฟล์ ( add File ลง repository )
-git add <filename>
+git add <filename> //add เพื่อให้ git รู้จักไฟล์
 // เพื่อบอกให้ตัว git รู้จัก ไฟล์นั้นๆ
 git add <ชื้อไฟล์>
 git add . recursive add //add all file in directory
