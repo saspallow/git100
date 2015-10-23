@@ -1,1 +1,1 @@
-git add ชื่อไฟล์ (add ลง repository )
+git add ชื่อไฟล์ ( add File ลง repository )
