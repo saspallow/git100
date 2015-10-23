@@ -1,4 +1,12 @@
 git add ชื่อไฟล์ ( add File ลง repository )
+<<<<<<< HEAD
+
+git add ใช้สำหรับแอดไฟล์เข้าไปใน repository
+
+git add <filename>
+// เพื่อบอกให้ตัว git รู้จัก ไฟล์นั้นๆ
+=======
 git add <filename>
 // เพื่อบอกให้ตัว git รู้จัก ไฟล์นั้นๆ
 git add ตามด้วยชื่อไฟล์
+>>>>>>> e31477f540b85834cf2695268078800cf17388c0
