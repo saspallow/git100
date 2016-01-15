@@ -1,3 +1,26 @@
+﻿--Generate SSH Keys
+ssh-keygen
+
+ซึ่ง git จะไปสร้าง key file ใน home directory\.ssh ของ user ซึ่งสำหรับ Windows จะอยู่ที่ C:\Users\[username]\.ssh
+
+ซึ่งไฟล์จะประกอบด้วย
+
+-known_hosts เป็น ip และ public key ของ GitHub
+id_rsa ซึ่งเป็น private key
+id_rsa.pub เป็น public key
+
+-add public key ใน GitHub
+โดย login เข้า GitHub
+เลือก Setting
+เลือก SSH Keys
+กดปุ่ม Add SSH Key
+
+ตั้งชื่อ title ซึ่งเป็นอะไรก็ได้
+copy content ของ id_rsa.pub ใส่ใน key
+
+โดย 1 user จะสามารถมี key ที่เครื่องใดๆ ได้ 1 key เท่านั้น แต่ถ้า 1 user มีหลายเครื่องก็จะต้องสร้าง key สำหรับแต่ละเครื่องในการติดต่อกับ GitHub
+
+
 ---Config first install git
 git config --global username.name "name"
 git config --global user.email "e-mail"
