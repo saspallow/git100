@@ -1,5 +1,11 @@
-git push -u origin master (first time)
+﻿git push -u origin master (first time)
 git push นำไฟล์จาก repository ขึ้นไปยัง github
 
 git push  ส่งไพล์ขึ้น github จากเครื่อง ระวัง conflict
 
+--------------
+
+การ อะพเดทไฟล์ที่ลบ ให้ repo ตรงกับ local
+
+git add -u 
+git commit -m "Deleted files manually"
