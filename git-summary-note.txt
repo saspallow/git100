@@ -82,3 +82,5 @@ create git-log.txt
 git remote set-url origin <URL> // ใช้สำหรับเปลี่ยน repository
 
 =======
+
+git add -u // updates all your changes
