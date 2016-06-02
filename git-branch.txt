@@ -1,0 +1,19 @@
+- Create Branch
+// สร้าง Branch
+git branch nameBranch
+
+//ย้าย Branch
+git checkout namebranch
+
+- Merge other branch to master
+
+git checkout master
+
+// Merge Branch อื่นๆ เข้ากับ Branch ที่อยู่
+git merge nameBranchOther
+
+git push origin master
+
+- Delete Branch
+
+git push origin :namebranch
