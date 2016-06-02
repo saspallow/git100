@@ -22,9 +22,6 @@ copy content ของ id_rsa.pub ใส่ใน key
 
 
 ---Config first install git
-git config --global username.name "name"
-git config --global user.email "e-mail"
-
 git config --global user.name "name" ตั้งชื่อ repository 
 git config --global user.email "e-mail" กำหนด e-mail ใน repository
 

@@ -60,7 +60,6 @@ git pull >> ดึงข้อมูลล่าสุดจาก github ลง
 =======
 git log
 
-
 แสดงรายละเอียดของไฟล์ใน repository อธิบายประวัติทั การเข้าถึงทั่วไป
 แสดงข้อมูล  เลข commit, commit message , ผู้เขียน , email ผู้เขียน และ วันเวลาที่ถูกปรับปรุง
 
@@ -80,20 +79,8 @@ create git-log.txt
 
 ======
 
+git remote set-url origin <URL> // ใช้สำหรับเปลี่ยน repository
 
+=======
 
-##############
-รายชื่อ
-##############
-Sarawut Silprawat(Benz)
-Surasak Photiphiphit(Jack)
-Krisada Vivek(Mo)
-Sunai Sukanake(Nook)
-Jariya Chotinawano(Pui)
-Thatchapit Chumnankit (Gee)
-Hathairat Suvarnamisara (Jiiewz)
-Pathamawadee Inpromma (Prang) 
-Pakpoom Deepoon (Poom)
-Piyawan Chanro (Sine)
-
-
+git add -u // updates all your changes
