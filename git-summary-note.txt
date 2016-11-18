@@ -84,3 +84,6 @@ git remote set-url origin <URL> // ใช้สำหรับเปลี่ย
 =======
 
 git add -u // updates all your changes
+
+=======
+git diff --name-only --diff-filter=U
