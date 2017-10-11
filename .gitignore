@@ -6,3 +6,4 @@ git-pull.txt
 git-push.txt
 git-status.txt
 onetime-command.txt
+*.log
